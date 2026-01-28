@@ -89,6 +89,7 @@ crash_logs/
 !/Assets/**/*.controller
 !/Assets/**/*.anim
 !/Assets/**/*.asset
+!/Assets/**/*.cs
 
 # Re-include the allowed folder: keep everything inside it tracked
 !/Assets/3D Laboratory Environment with Appratus/
