@@ -86,7 +86,7 @@ Assets/
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/BSHLoussama/VR_Project_Lab.git
    cd "My project (1)"
    ```
 
